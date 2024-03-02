@@ -1,4 +1,5 @@
 print ("~~**~~Mini Calculator~~**~~")
+print ("vishupratap sing sisodiya")
 
 num1 = float(input("enter first numer here: "))
 num2 = float(input("enter second numer here: "))
