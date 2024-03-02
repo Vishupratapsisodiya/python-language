@@ -1,0 +1,2 @@
+a = "vishupratap"
+print(a)
